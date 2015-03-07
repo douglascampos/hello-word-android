@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="android">Codar para Android é meio cagado!!!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
